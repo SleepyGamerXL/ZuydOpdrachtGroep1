@@ -1,0 +1,83 @@
+[
+    {
+        "vraag": "Kun je vrijstellingen krijgen voor de opleiding?",
+        "Antwoord_1": "Nee",
+        "Antwoord_2": "Ja met MBO 3 diploma van een verglijkbare opleiding of hoger",
+        "Antwoord_3": "Ja met MBO 4 diploma van een verglijkbare opleiding",
+        "Het_antwoord": "3",
+        "id": 1
+    },
+    {
+        "vraag": "Wat voor een lessen krijg je?",
+        "Antwoord_1": "SD (progammeren)",
+        "Antwoord_2": "IT (system and devices)",
+        "Antwoord_3": "Zowel SD als IT",
+        "Het_antwoord": "3",
+        "id": 2
+    },
+    {
+        "vraag": "Hoelang duurt de opleiding? ",
+        "Antwoord_1": "1 jaar",
+        "Antwoord_2": "2 jaar",
+        "Antwoord_3": "3 jaar",
+        "Antwoord_4": "4 jaar",
+        "Het_antwoord": "4",
+        "id": 3
+    },
+    {
+        "vraag": "Kun je de opleiding deeltijd volgen?",
+        "Antwoord_1": "ja",
+        "Antwoord_2": "nee",
+        "Het_antwoord": "1",
+        "id": 4
+    },
+    {
+        "vraag": "Kan je de opleiding bachelor volgen?",
+        "Antwoord_1": "ja",
+        "Antwoord_2": "nee",
+        "Het_antwoord": "2",
+        "id": 5
+    },
+    {
+        "vraag": "Kun je de opleiding in een vernsneld traject doen?",
+        "Antwoord_1": "Nee",
+        "Antwoord_2": "Ja alleen voor HAVO of hoger",
+        "Antwoord_3": "Ja alleen voor VWO of hoger",
+        "Het_antwoord": "3",
+        "id": 6
+    },
+    {
+        "vraag": "Welke richtingen zijn er?",
+        "Antwoord_1": "",
+        "Antwoord_2": "",
+        "Antwoord_3": "",
+        "Antwoord_4": "",
+        "Het_antwoord": "",
+        "id": 7
+    },
+    {
+        "vraag": "Welke richtingen kun je op na de opleiding?",
+        "Antwoord_1": "Data Engineer",
+        "Antwoord_2": "Software Engineer",
+        "Antwoord_3": "Cloud Engineer",
+        "Antwoord_4": "Alle bovenstaande",
+        "Het_antwoord": "4",
+        "id": 8
+    },
+    {
+        "vraag": "Kun je na de opleiding doorstuderen?",
+        "Antwoord_1": "Nee",
+        "Antwoord_2": "Ja",
+        "Het_antwoord": "2",
+        "id": 9
+    },
+    {
+        "vraag": "",
+        "Antwoord_1": "",
+        "Antwoord_2": "",
+        "Antwoord_3": "",
+        "Antwoord_4": "",
+        "Het_antwoord": "",
+        "id": 10
+    }
+]
