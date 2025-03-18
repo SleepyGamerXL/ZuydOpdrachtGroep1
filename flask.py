@@ -1,4 +1,4 @@
-app = Flask(name)
+app = Flask(__name__)
 
 def get_ip():
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -16,7 +16,7 @@ def get_ip():
 def home():
     return 'Dit is een test'
 
-if name == 'main':
+if __name__ == '__main__':
     ip_address = get_ip()
     print(f"Flask is running on {ip_address}:5000")
     app.run(host=ip_address, port=5000) 
