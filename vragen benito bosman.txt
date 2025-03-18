@@ -1,0 +1,74 @@
+1 Met welke command komt de text 'Hello world!' op beeld?
+
+print(Hello world!)
+print "Hello world!"
+print("Hello world!") juiste
+print = "Hello world!"
+
+2 Welk effect heeft de # 
+
+Vertelt Python dat dit een heel belangrijke regel code is.
+Vertelt Python om de rest van de regel te negeren.  juiste
+Vertelt Python om te tweeten wanneer deze regel code wordt uitgevoerd.
+Het doet niets, Python negeert dit karakter.
+
+3 Wat is het resultaat van deze command? print (“5” + “3”)
+
+8
+"5" + "3"
+"8"
+53 juiste
+
+4 Hoe zou jij zorgen dat deze code werkt? name = 'Bob' 
+                                        print (Name)
+De ' ' rond Bob verwijderen.
+Verwijder '=' .
+( ) rond naam verwijderen.
+Maak 'Naam' kleine letters. Juiste
+
+5 Wat zou de uitkomst hier van zijn?
+
+Number1 = 3
+Number2 = 7
+Number3 = 5
+print(Number1+Number2 * Number3)
+
+22
+50
+niks er komt een error.
+38 juiste
+
+6 Wat doet input?
+
+Hiermee kan je het programma wijzigen
+Het converteert gegevenstypes
+Hiermee kan een gebruiker een taak oplossen
+Hiermee kunnen gebruikers gegevens invoeren juiste 
+
+7 Welke van deze 4 antwoorden is hetzelfde als 'Hello'? 
+
+x = "Hello"
+x != "Hello"
+x == "Hello" juiste
+x <> "Hello"
+
+8 Hoeveel programmeertalen bestaan er?
+
+meer dan 700 juiste
+567
+minder dan 700
+10000
+
+9 Welke van de 4 antwoorden beschrijft een variable het beste?
+
+Een doosje met gegevens.
+Een plek in het geheugen van de computer waar een waarde opgeslagen is. juiste
+Een naam met een getal erin.
+Een plek met code.
+
+10 Wat is het belangrijkste kenmerk van een loop?
+
+Het herhaalt een codeblok een vooraf bepaald aantal keer. juiste
+Het voert een codeblok uit zolang een bepaalde voorwaarde waar is.
+Het stopt automatisch na de eerste keer.
+Het kan alleen worden gebruikt met getallen. 
